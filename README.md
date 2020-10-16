@@ -9,7 +9,7 @@ Tiene un sistema de logs con información para poder diagnosticar problemas y un
 ## Cliente 
 Aplicación de consola para testear el servicio [Calculator.Service](https://github.com/Daniel-40/Calculator-Service.git)  
 
-Para su funcionamiento es necesario ejecutar el servicio.
+Para su funcionamiento es necesario ejecutar los dos proyectos.
 
 La aplicación muestra al usuario el siguiente menú de opciones:
 
